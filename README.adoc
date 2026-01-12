@@ -4,7 +4,9 @@
 Neel Raj, 2025
 
 == Description
-Build a simple pedigree from dataframe.
+Build a simple pedigree from csv of individual, father, mother and auxiliary IDs.
+This app was built for use by the SDZWA Recovery Ecology team for monitoring parentage of Burrowing
+Owls.
 
 == Usage
 *Required fields*
