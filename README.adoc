@@ -6,12 +6,15 @@ Neel Raj 2025
 Build a simple pedigree from dataframe.
 
 *Required fields*
+
 image::/images/fields.png[Fields]
 
 *Available filters*
+
 image::/images/filters.png[Filters]
 
 *Pedigree*
+
 image::/images/pedigree.png[Pedigree]
 
 == Maintainers
