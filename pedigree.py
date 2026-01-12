@@ -10,6 +10,7 @@ File layout expected is an unformatted .csv with 7 columns in the order of
 
 Run the program using command 'streamlit run pedigree.py'
 """
+
 from datetime import datetime
 import streamlit as st
 from graphviz import Digraph
@@ -376,7 +377,7 @@ else:
 
 current_year = datetime.now().year
 CR_STATEMENT = (
-    "Copyright (c) " 
+    "Copyright (c) "
     + str(current_year)
     + " Conservation Tech Lab at the San Diego Zoo Wildlife Alliance"
 )
