@@ -5,14 +5,14 @@ Neel Raj 2025
 
 Build a simple pedigree from dataframe.
 
-image::/images/fields.png[Fields]
 *Required fields*
+image::/images/fields.png[Fields]
 
-image::/images/filters.png[Filters]
 *Available filters*
+image::/images/filters.png[Filters]
 
-image::/images/pedigree.png[Pedigree]
 *Pedigree*
+image::/images/pedigree.png[Pedigree]
 
 == Maintainers
 The Conservation Techology Lab at the San Diego Zoo Wildlife Alliance
