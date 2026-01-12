@@ -1,0 +1,18 @@
+= Pedigree Grapher
+
+== Author
+Neel Raj 2025
+
+Build a simple pedigree from dataframe.
+
+image::/images/fields.png[Fields]
+* Required fields *
+
+image::/images/filters.png[Filters]
+* Available filters *
+
+image::/images/pedigree.png[Pedigree]
+* Pedigree *
+
+== Maintainers
+The Conservation Techology Lab at the San Diego Zoo Wildlife Alliance
